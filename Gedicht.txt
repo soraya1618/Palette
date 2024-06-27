@@ -2,7 +2,8 @@ Farbpalette
 
 Rot
 Grün
-Blau
+Hellblau
+Dunkelblau
 Cyan
 Magenta
 Yellow
